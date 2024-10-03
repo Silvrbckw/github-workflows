@@ -21,7 +21,7 @@ jobs:
         with:
           persist-credentials: false
       - run: ./tools/license-builder.sh  # Run the license builder tool
-      - uses: gr2m/create-or-update-pull-request-action@77596e3166f328b24613f7082ab30bf2d93079d5
+      - uses: gr2m/create-or-update-pull-request-action@488876a65a2ca38b7eb05e9086166337087f5323
         # Creates a PR or update the Action's existing PR, or
         # no-op if the base branch is already up-to-date.
         env:
