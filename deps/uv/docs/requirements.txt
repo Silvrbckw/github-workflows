@@ -2,7 +2,7 @@
 Sphinx==3.5.4
 
 # dependencies
-alabaster==0.7.12
+alabaster==0.7.16
 appdirs==1.4.3
 Babel==2.9.0
 CacheControl==0.12.6
