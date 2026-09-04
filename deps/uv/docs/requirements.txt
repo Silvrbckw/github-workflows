@@ -25,7 +25,7 @@ packaging==20.3
 pep517==0.8.2
 progress==1.5
 Pygments==2.8.1
-pyparsing==2.4.6
+pyparsing==2.4.7
 pytoml==0.1.21
 pytz==2021.1
 requests==2.22.0
